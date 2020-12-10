@@ -1,0 +1,18 @@
+valentina@valentina:~/WEB/Dev_EPAM/GitHubDevOps/DevOps_online_Dnipro_2020Q42021Q1$ git reflog
+3ab3e11 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+9379a73 HEAD@{1}: checkout: moving from develop to main
+3ab3e11 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): task 1.1; resolve conflict
+b612d14 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+0101043 HEAD@{4}: checkout: moving from styles to develop
+8f90bcb (origin/styles, styles) HEAD@{5}: commit: task 1.1; add link to css file in index.html
+ab7193e HEAD@{6}: commit: task 1.1; create styles branch & add folder style with csss
+0101043 HEAD@{7}: checkout: moving from develop to styles
+0101043 HEAD@{8}: checkout: moving from images to develop
+b612d14 (origin/images, images) HEAD@{9}: commit: task 1.1; add links to images in index.html
+6c3ce11 HEAD@{10}: commit: task 1.1; create images branch & folder, add pictures in it
+0101043 HEAD@{11}: checkout: moving from develop to images
+0101043 HEAD@{12}: commit: task 1.1; create develop branch & index.html
+9379a73 HEAD@{13}: checkout: moving from main to develop
+9379a73 HEAD@{14}: commit: task 1.1; create readme.txt
+ff5f8bc HEAD@{15}: clone: from git@github.com:YaroslavGitHub/DevOps_online_Dnipro_2020Q42021Q1.git
+valentina@valentina:~/WEB/Dev_EPAM/GitHubDevOps/DevOps_online_Dnipro_2020Q42021Q1$ 
