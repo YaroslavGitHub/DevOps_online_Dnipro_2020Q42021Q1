@@ -17,3 +17,17 @@
 ![work with AWS](./images/task3_1_5.png)
 
 ![work with AWS](./images/task3_1_6.png)
+
+### PART 3
+
+![work with AWS](./images/task3_1_7.png)
+
+![work with AWS](./images/task3_1_8.png)
+
+![work with AWS](./images/task3_1_9.png)
+
+![work with AWS](./images/task3_1_10.png)
+
+![work with AWS](./images/task3_1_11.png)
+
+![work with AWS](./images/task3_1_12.png)
