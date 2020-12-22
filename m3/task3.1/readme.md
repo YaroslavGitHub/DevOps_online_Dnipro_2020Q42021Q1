@@ -3,6 +3,7 @@
 ## Module 3 Database Administration
 
 ### PART 1
+![work with AWS](./images/task_schema.png)
 
 ![work with AWS](./images/task3_1_1.png)
 
