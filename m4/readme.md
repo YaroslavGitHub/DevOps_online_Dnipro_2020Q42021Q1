@@ -2,7 +2,7 @@
 
 ## Module 4 Networking Fundamentals
 
-### PART 1
+### Steps of homework
 
 ![networking](./images/task4_1.png)
 
@@ -17,3 +17,12 @@
 ![networking](./images/task4_6.png)
 
 ![networking](./images/task4_7.png)
+
+![networking](./images/task4_8.png)
+
+![networking](./images/task4_9.png)
+
+![networking](./images/task4_10.png)
+
+![networking](./images/task4_11.png)
+
