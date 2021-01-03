@@ -25,3 +25,5 @@
 ### 4.2.3
 
 ![networking](./images/task4_2_41.png)
+
+![networking](./images/task4_2_42.png)

@@ -10,9 +10,14 @@
 
 ![networking](./images/task4_43.png)
 
+### 4.4.2
 
-### 4.2.2
+![networking](./images/task4_44.png)
 
-![networking](./images/task4_2_31.png)
+![networking](./images/task4_45.png)
 
-![networking](./images/task4_2_32.png)
+![networking](./images/task4_46.png)
+
+![networking](./images/task4_47.png)
+
+![networking](./images/task4_48.png)
