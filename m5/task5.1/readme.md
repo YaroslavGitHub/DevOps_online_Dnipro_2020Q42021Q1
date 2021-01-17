@@ -25,3 +25,21 @@ __help__ is a built-in command in the bash shell (and that shell only) that docu
 __man__ is a system-wide documentation system that provides short reference manuals (pages) for individual commands, API functions, concepts, configuration file syntax, file formats organised in sections (1 for user commands, 2 for system calls...). That's the traditional Unix documentation system.
 
 __info__ is another documentation system originating in the GNU project. It's hypertext with links (predates the web). An info manual is like a digital book with a concept of table of contents and (searchable) index which helps locating the information.
+
+USEFUL: info bash help
+
+![work with Linux](./images/51_8.png)
+
+![work with Linux](./images/51_9.png)
+
+![work with Linux](./images/51_10.png)
+
+![work with Linux](./images/51_11.png)
+
+![work with Linux](./images/51_12.png)
+
+![work with Linux](./images/51_13.png)
+
+![work with Linux](./images/51_14.png)
+
+USEFUL Link: __The Linux LS Command:__ <https://www.freecodecamp.org/news/the-linux-ls-command-how-to-list-files-in-a-directory-with-options/>
