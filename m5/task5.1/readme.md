@@ -43,3 +43,32 @@ USEFUL: info bash help
 ![work with Linux](./images/51_14.png)
 
 USEFUL Link: __The Linux LS Command:__ <https://www.freecodecamp.org/news/the-linux-ls-command-how-to-list-files-in-a-directory-with-options/>
+
+### Linux PART 2
+
+USEFUL Link for tree command: <https://www.tecmint.com/linux-tree-command-examples/>
+
+To determine the file type in Linux, we can use the file command.
+$ file README.md
+README.md: ASCII text
+
+$ cd - turn to home
+
+List files including hidden files
+Type the __ls -a__ command to list files or directories including hidden files or directories. In Linux, anything that begins with a . is considered a hidden file
+
+Type the __ls -l -a or ls -a -l or ls -la or ls -al__ command to list files or directories in a table format with extra information including hidden files or directories.
+
+![work with Linux](./images/51_15.png)
+
+valentina@valentina:~$ sudo mv /home/valentina/thesis/draft.txt /home
+valentina@valentina:~$ sudo mv /home/draft.txt /home/valentina/thesis/draft.txt
+
+__remove safely__ rm -i thesis_backup/quotations.txt
+asking for removing: y
+
+![work with Linux](./images/51_16.png)
+
+![work with Linux](./images/51_17.png)
+
+![work with Linux](./images/51_18.png)
