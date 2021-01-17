@@ -72,3 +72,9 @@ asking for removing: y
 ![work with Linux](./images/51_17.png)
 
 ![work with Linux](./images/51_18.png)
+
+#### Determine which partitions are mounted in the system, as well as the types of these partitions
+
+__mount__ for a list of all mounted filesystems and mount options for each of them;
+__lsblk__ for a tree of block devices, size and mount point (if mounted);
+__df__ for a list of mounted block devices, size, used space, available space and mount point.
