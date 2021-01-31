@@ -320,5 +320,8 @@ ssh-keygen -t ed25519
 4. Implement port forwarding for the SSH client from the host machine to the guest Linux
 virtual machine behind NAT.
 [info](https://medium.com/platform-engineer/port-forwarding-for-ssh-http-on-virtualbox-459277a888be)
+Steps of port forwarding
+![work with Linux](./images/53_2.png)
+![work with Linux](./images/53_3.png)
 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the
 server using ssh, telnet, rlogin. Analyze the result.
