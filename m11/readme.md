@@ -8,7 +8,7 @@ Docker image with random pix (nature pix)is done and uploaded to DockerHub - my 
 
 Shot steps review
 
-![Screen 1](./images/11_2_1.png)
+![Screen 1](./images/11_2_3.png)
 
 ![Screen 1](./images/11_2_2.png)
 
