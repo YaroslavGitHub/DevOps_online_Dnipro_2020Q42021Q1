@@ -8,9 +8,9 @@
 
 ![work with AWS](./images/task2_2_3.png)
 
-![work with AWS](./images/task2_2_4.png)
+![work with AWS](./images/task2_2_4_1.png)
 
-![work with AWS](./images/task2_2_5.png)
+![work with AWS](./images/task2_2_5_1.png)
 
 ![work with AWS](./images/task2_2_6.png)
 
@@ -32,7 +32,7 @@
 
 ![work with AWS](./images/task2_2_15.png)
 
-![work with AWS](./images/task2_2_16.png)
+![work with AWS](./images/task2_2_16_1.png)
 
 ### Link to static website
 
